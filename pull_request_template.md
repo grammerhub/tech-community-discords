@@ -11,7 +11,7 @@ Choose the right checklist for the change that you're making:
 - [ ] Name and link are accurate
 - [ ] Brief description of the server is accurate and properly typed
 
-# Remove a Discord Group
+# Remove a Discord Server
 
 - [ ] Name of Discord server is present
 - [ ] Reason for requesting removal is present
