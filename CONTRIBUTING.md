@@ -24,4 +24,4 @@ If you are interested in adding a new discord server, please add it to the READM
 - [Getting Started with Git](https://www.thisdot.co/blog/getting-started-with-git)
 
 ## Attribution
-This Code of Conduct is adapted from the [This Dot Community](https://github.com/thisdot/tech-community-slacks/blob/master/CONTRIBUTING.md)
+This Contributing file is adapted from the [This Dot Community](https://github.com/thisdot/tech-community-slacks/blob/master/CONTRIBUTING.md)
