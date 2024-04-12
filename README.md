@@ -333,7 +333,7 @@ Below are some other interesting Discord servers for different technologies and 
 
 ## Community Groups
 
-- Pending
+- [Techqueria](https://discord.gg/ZYAKnEpqd5) - Latinos In Tech Nationwide USA
 
 ## Blogging
 
