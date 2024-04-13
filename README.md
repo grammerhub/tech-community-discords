@@ -291,17 +291,31 @@ Below are some other interesting Discord servers for different technologies and 
 
 ## Frameworks
 
-- [Vue Land](https://chat.vuejs.org/)
-- [Vue Mastery](https://discord.gg/UuAuN6yrJ5)
-- [NextJS](https://discord.gg/nextjs)
+- Vue
+  - [Vue Land](https://chat.vuejs.org/)
+  - [Vue Mastery](https://discord.gg/UuAuN6yrJ5)
+- React
+  - [NextJS](https://discord.gg/nextjs)
+- Angular - JavaScript web development framework created and maintained by google
+  - [Angular Community](https://discord.com/invite/angular): Largest unofficial Angular discord channel. Even core team participates here.
+  - [AnalogJs](https://chat.analogjs.org/): Fullstack meta framework for Angular.
+- [NestJs](https://discord.com/invite/nestjs): Largest unofficial discord channel for NestJs backed framework.
+- [Qwik](https://discord.com/invite/eDrWHeqnnQ): Official discord server for Qwik.
+
 
 ## Languages
 
 - [C#](https://discord.gg/csharp)
+- TypeScript:
+  - [TypeScript Community](https://discord.com/invite/typescript): Largest unofficial TypeScript discord channel.
 
 ## Design
 
 - Pending
+
+## UI Libraries
+
+- [PrimeLand](https://discord.com/invite/gzKFYnpmCY): PrimeFaces officially supported discord channel.
 
 ## Security
 
