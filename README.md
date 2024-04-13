@@ -4,6 +4,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
 
 # Navigation
 
+- [Navigation](#navigation)
 - [List of Discord Channels for local communities by region](#list-of-discord-channels-for-local-communities-by-region)
   - [🇺🇸 USA:](#-usa)
     - [New England](#new-england)
@@ -13,63 +14,50 @@ If you would like to add to the list, please see our [contribution guidelines](.
     - [The Southwest](#the-southwest)
     - [The West](#the-west)
 - [Other Countries](#other-countries)
-
-  - [🇦🇷 Argentina](#-argentina)
-  - [🇦🇬 Antigua and Barbuda](#---------------caribbean-countries)
-  - [🇦🇺 Australia](#-australia)
-  - [🇧🇸 Bahamas](#---------------caribbean-countries)
-  - [🇧🇧 Barbados](#---------------caribbean-countries)
-  - [🇧🇿 Belize](#---------------caribbean-countries)
-  - [🇧🇷 Brazil](#-brazil)
-  - [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-divoire-ivory-coast)
-  - [🇨🇦 Canada](#-canada)
-  - [🇨🇱 Chile](#-chile)
-  - [🇨🇺 Cuba](#---------------caribbean-countries)
-  - [🇩🇰 Denmark](#-denmark)
-  - [🇩🇲 Dominica](#---------------caribbean-countries)
-  - [🇩🇴 Dominican Republic](#---------------caribbean-countries)
-  - [🇫🇮 Finland](#-finland)
-  - [🇫🇷 France](#-france)
-  - [🇩🇪 Germany](#-germany)
-  - [🇬🇭 Ghana](#-ghana)
-  - [🇬🇩 Grenada](#---------------caribbean-countries)
-  - [🇬🇾 Guyana](#---------------caribbean-countries)
-  - [🇭🇹 Haiti](#---------------caribbean-countries)
-  - [🇮🇳 India](#-india)
-  - [🇮🇩 Indonesia](#-india)
-  - [🇮🇪 Ireland](#-ireland)
-  - [🇮🇹 Italy](#-italy)
-  - [🇯🇲 Jamaica](#---------------caribbean-countries)
-  - [🇯🇵 Japan](#-japan)
-  - [🇲🇾 Malaysia](#-malaysia)
-  - [🇲🇽 Mexico](#-mexico)
-  - [🇳🇿 New Zealand](#-new-zealand)
-  - [🇳🇬 Nigeria](#-nigeria)
-  - [🇵🇭 Philippines](#-philippines)
-  - [🇵🇱 Poland](#-poland)
-  - [🇷🇴 Romania](#-romania)
-  - [🇰🇳 Saint Kitts and Nevis](#---------------caribbean-countries)
-  - [🇱🇨 Saint Lucia](#---------------caribbean-countries)
-  - [🇻🇨 Saint Vincent and the Grenadines](#---------------caribbean-countries)
-  - [🇿🇦 South Africa](#-south-africa)
-  - [🇸🇷 Suriname](#---------------caribbean-countries)
-  - [🇷🇸 Serbia](#-serbia)
-  - [🇪🇸 Spain](#-spain)
-  - [🇹🇹 Trinidad and Tobago](#---------------caribbean-countries)
-  - [🇬🇧 UK](#-uk)
-  - [🇻🇳 Vietnam](#-vietnam)
-
+    - [🇦🇷 Argentina](#-argentina)
+    - [🇦🇺 Australia](#-australia)
+    - [🇧🇷 Brazil](#-brazil)
+    - [🇧🇸 🇧🇧 🇧🇿 🇨🇺 🇩🇲 🇩🇴 🇬🇩 🇬🇾 🇭🇹 🇯🇲 🇰🇳 🇱🇨 🇻🇨 🇸🇷 🇹🇹 Caribbean Countries](#---------------caribbean-countries)
+    - [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-divoire-ivory-coast)
+    - [🇨🇦 Canada](#-canada)
+    - [🇨🇱 Chile](#-chile)
+    - [🇩🇰 Denmark](#-denmark)
+    - [🇫🇮 Finland](#-finland)
+    - [🇫🇷 France](#-france)
+    - [🇩🇪 Germany](#-germany)
+    - [🇬🇭 Ghana](#-ghana)
+    - [🇮🇳 India](#-india)
+    - [🇮🇩 Indonesia](#-indonesia)
+    - [🇮🇪 Ireland](#-ireland)
+    - [🇮🇱 Israel](#-israel)
+    - [🇮🇹 Italy](#-italy)
+    - [🇯🇵 Japan](#-japan)
+    - [🇲🇾 Malaysia](#-malaysia)
+    - [🇲🇽 Mexico](#-mexico)
+    - [🇳🇿 New Zealand](#-new-zealand)
+    - [🇳🇬 Nigeria](#-nigeria)
+    - [🇵🇭 Philippines](#-philippines)
+    - [🇵🇱 Poland](#-poland)
+    - [🇷🇴 Romania](#-romania)
+    - [🇿🇦 South Africa](#-south-africa)
+    - [🇷🇸 Serbia](#-serbia)
+- [🇪🇸 Spain](#-spain)
+    - [🇬🇧 UK](#-uk)
+    - [🇺🇾 Uruguay](#-uruguay)
+    - [🇺🇦 Ukraine](#-ukraine)
+    - [🇻🇳 Vietnam](#-vietnam)
 - [Conferences (public discord communities)](#conferences-public-discord-communities)
 - [Bonus channels](#bonus-channels)
   - [General Tech Discord Communities](#general-tech-discord-communities)
   - [Frameworks](#frameworks)
+  - [Stacks](#stacks)
   - [Languages](#languages)
   - [Design](#design)
   - [Security](#security)
   - [Technologies](#technologies)
   - [General Dev](#general-dev)
-  - [General Testing & QA](#general-testing--qa)
-  - [Intro to Dev & Learning](#intro-to-dev--learning)
+  - [General Testing \& QA](#general-testing--qa)
+  - [Intro to Dev \& Learning](#intro-to-dev--learning)
   - [Women](#women)
   - [Misc Interest](#misc-interest)
   - [Community Groups](#community-groups)
@@ -124,6 +112,7 @@ Join these local Discord servers in Alabama, Arkansas, Florida, Georgia, Kentuck
 - NC - Pending
 - TN - Pending
 - VA - Pending
+
 ### The Southwest
 
 Local Discord servers in Arizona, New Mexico, Oklahoma, Texas:
@@ -137,7 +126,7 @@ Local Discord servers in Arizona, New Mexico, Oklahoma, Texas:
 
 From Alaska, Hawaii and Washington down to California there are several local servers below:
 
-- CA 
+- CA
   - [West LA Coding](https://discord.gg/gVHQW9P3WR) - West LA
 - CO - Pending
 - HI - Pending
@@ -160,6 +149,7 @@ From Alaska, Hawaii and Washington down to California there are several local se
 - Pending
 
 ### 🇧🇸 🇧🇧 🇧🇿 🇨🇺 🇩🇲 🇩🇴 🇬🇩 🇬🇾 🇭🇹 🇯🇲 🇰🇳 🇱🇨 🇻🇨 🇸🇷 🇹🇹 Caribbean Countries
+
 - Pending
 
 ### 🇨🇮 Cote d'Ivoire (Ivory Coast)
@@ -258,7 +248,6 @@ From Alaska, Hawaii and Washington down to California there are several local se
 
 - Pending
 
-
 # 🇪🇸 Spain
 
 - Pending
@@ -294,6 +283,13 @@ Below are some other interesting Discord servers for different technologies and 
 - [Vue Land](https://chat.vuejs.org/)
 - [Vue Mastery](https://discord.gg/UuAuN6yrJ5)
 - [NextJS](https://discord.gg/nextjs)
+- [![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)](https://discord.gg/fZWCmgVK)
+- [![Remix Badge](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=flat)](https://discord.gg/a6gt8JNM)
+
+## Stacks
+
+- [Theo's Typesafe Cult (T3 stack)](https://discord.gg/T2ZY6RzF) - Typescript (Next), Tailwind, and tRPC
+- [![RedwoodJS Badge](https://img.shields.io/badge/RedwoodJS-BF4722?logo=redwoodjs&logoColor=fff&style=flat)](https://discord.gg/redwoodjs) - React, Prisma, GraphQL, Storybook, Jest, and a cli with component generator based on the database models
 
 ## Languages
 
@@ -301,7 +297,9 @@ Below are some other interesting Discord servers for different technologies and 
 
 ## Design
 
-- Pending
+- [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](https://discord.gg/gsWCUwza)
+- [![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=flat)](https://discord.gg/3krVpnqF)
+- [![Storybook Badge](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=flat)](https://discord.gg/qPgfspXp)
 
 ## Security
 
@@ -309,7 +307,9 @@ Below are some other interesting Discord servers for different technologies and 
 
 ## Technologies
 
-- Pending
+- [![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat)](https://discord.gg/prisma-937751382725886062) - Typesafe Javascript ORM
+- [![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat)](https://discord.gg/electronjs) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [![Clerk Badge](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff&style=flat)](https://discord.gg/kqtGXmC3) - Easy to use authorization
 
 ## General Dev
 
@@ -321,7 +321,16 @@ Below are some other interesting Discord servers for different technologies and 
 
 ## Intro to Dev & Learning
 
-- Pending
+- [![The Odin Project Badge](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff&style=flat)](https://discord.gg/theodinproject) - Our full stack curriculum is free and supported by a passionate open source community.
+- [Zero To Mastery (ZTM)](https://zerotomastery.io/community/developer-community-discord/) - **PRIVATE DISCORD** for people taking their classes anywhere. They have classes on Udemy.
+- [\n](https://discord.gg/WU9f3jWw) - Newline produces effective courses for aspiring lead developers
+- [Academind](https://discord.gg/w89TfKmM) - Discord for all of Maximilian Schwarzmüller's classes
+- [Web Dev and Web Design](https://discord.gg/web) - Community tied to a free, guided, and self-paced curriculum for learning the basics of web development.
+- [Dotnet Mastery](https://discord.gg/57vtfX58) - They have a suggested playlist of Udemy classes to learn .NET
+- [100 Devs](https://discord.gg/100devs) - A free bootcamp
+- [![Fireship Badge](https://img.shields.io/badge/Fireship-EB844E?logo=fireship&logoColor=fff&style=flat)](https://discord.gg/eaf6UA49) - The guy who does all of the "in 100 seconds" videos also makes classes
+- [The C# Academy](https://discord.gg/ATubTC3c)
+- [Wilco](https://www.trywilco.com/) - **PRIVATE DISCORD** Learn by fixing bugs in the code.
 
 ## Women
 
@@ -329,11 +338,20 @@ Below are some other interesting Discord servers for different technologies and 
 
 ## Misc Interest
 
-- Pending
+- [![Strapi Badge](https://img.shields.io/badge/Strapi-4945FF?logo=strapi&logoColor=fff&style=flat)](https://discord.gg/strapi) - headless CMS
+- [![StackBlitz Badge](https://img.shields.io/badge/StackBlitz-1269D3?logo=stackblitz&logoColor=fff&style=flat)](https://discord.gg/stackblitz) - online IDE with instant dev environments
+- [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)](https://discord.gg/5r7vyKbX)
+- [![AWS Amplify Badge](https://img.shields.io/badge/AWS%20Amplify-F90?logo=awsamplify&logoColor=fff&style=flat)](https://discord.gg/zEGGU6ZT)
+- [![Railway Badge](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=flat)](https://discord.gg/bbUpsttc)
+- [Tanstack](https://discord.gg/53T72qmH) - High-quality open-source software for web developers.
+- [Coolify](https://coolify.io/) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. You have to signup on their website.
+- [Hacktoberfest](https://discord.gg/hacktoberfest) - The official Discord
 
 ## Community Groups
 
-- Pending
+- [Reactiflux](https://discord.gg/bthvVZMK) - We’re a chat community of 229,733 React JS, React Native, Redux, Jest, Relay and GraphQL developers.
+- [Syntax](https://discord.gg/nAGHJdAX) - Community for the Syntax podcast.
+- [FrontEndCollab](https://discord.gg/Sv2h63Zt)
 
 ## Blogging
 
