@@ -12,7 +12,7 @@ If you are interested in adding a new discord server, please add it to the READM
 4. Then type `cd tech-community-discords` to go into the project's directory.
 5. Create a branch and switch to that new branch by using the following command: `git checkout -b new-branch-name`
 6. Update the `README.md` with your discord group suggestion(s).
-   - Append the title and link to the discord group, to the list in the appropriate category
+   - Append the title and link to the discord server(s), to the list in the appropriate category/categories
 7. In the command line, stage your changes by using the `git add .` command.
 8. Commit your changes by using the `git commit -m "commit message"` command.
 9. Push up your changes to the remote branch on GitHub by using the `git push -u origin branch_name` command.
