@@ -349,6 +349,7 @@ Below are some other interesting Discord servers for different technologies and 
 
 ## Community Groups
 
+- [Techqueria](https://discord.gg/ZYAKnEpqd5) - Latinos In Tech Nationwide USA
 - [Reactiflux](https://discord.gg/bthvVZMK) - We’re a chat community of 229,733 React JS, React Native, Redux, Jest, Relay and GraphQL developers.
 - [Syntax](https://discord.gg/nAGHJdAX) - Community for the Syntax podcast.
 - [FrontEndCollab](https://discord.gg/Sv2h63Zt)
