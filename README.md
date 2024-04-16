@@ -335,6 +335,7 @@ Below are some other interesting Discord servers for different technologies and 
 ## Intro to Dev & Learning
 
 - [![The Odin Project Badge](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff&style=flat)](https://discord.gg/theodinproject) - Our full stack curriculum is free and supported by a passionate open source community.
+- [Freecodecamp](https://discord.com/invite/KVUmVXA) - Coding challenges, programming assistance,  and open source collaborations for freecodecamp's curriculum
 - [Zero To Mastery (ZTM)](https://zerotomastery.io/community/developer-community-discord/) - **PRIVATE DISCORD** for people taking their classes anywhere. They have classes on Udemy.
 - [\n](https://discord.gg/WU9f3jWw) - Newline produces effective courses for aspiring lead developers
 - [Academind](https://discord.gg/w89TfKmM) - Discord for all of Maximilian Schwarzmüller's classes
