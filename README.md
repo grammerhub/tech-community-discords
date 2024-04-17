@@ -107,6 +107,8 @@ Join these local Discord servers in Alabama, Arkansas, Florida, Georgia, Kentuck
 - FL
   - [Grammerhub](https://discord.gg/5c7ss8hvtE) - West Palm Beach
   - [TechFlo](https://discord.gg/M8jedRKPz4) - Broward
+  - [Women in Computer Science @ FIU](https://discord.gg/nAvFUqkdvp) - Miami
+  - [INIT](https://discord.gg/init) - Miami
 - GA - Pending
 - KY - Pending
 - NC - Pending
